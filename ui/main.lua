@@ -9,8 +9,8 @@ local viewing = {
 local tween_service = game:GetService("TweenService")
 local text_service = game:GetService("TextService")
 
-local gui = game:GetObjects("rbxassetid://4861485073")[1]
-local assets = game:GetObjects("rbxassetid://4863384563")[1]
+local gui = game:GetObjects("rbxassetid://4945385368")[1]
+local assets = game:GetObjects("rbxassetid://4945388813")[1]
 
 ui.gui = gui
 ui.assets = assets
